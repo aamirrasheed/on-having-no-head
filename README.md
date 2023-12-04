@@ -1,3 +1,4 @@
+# Description
 Play the [Waking Up](wakingup.com) Daily meditation using a Raspberry Pi (to avoid screen usage in the morning).
 
 # Construction
