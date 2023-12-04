@@ -1,5 +1,7 @@
 # Description
-Play the [Waking Up](wakingup.com) Daily meditation using a Raspberry Pi (to avoid screen usage in the morning).
+Play the [Waking Up](wakingup.com) Daily meditation using a Raspberry Pi to avoid screen usage in the morning.
+
+Currently in outline stages.
 
 # Construction
 1. 3D printed case that contains a Raspberry Pi Zero W, a speaker/sound driver, a power supply, and two buttons. 
